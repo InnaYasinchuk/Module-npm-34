@@ -1,0 +1,23 @@
+{
+  "name": "lecture34",
+  "version": "1.0.0",
+  "description": "",
+  "main": "employees.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InnaYasinchuk/Module-npm-34.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/InnaYasinchuk/Module-npm-34/issues"
+  },
+  "homepage": "https://github.com/InnaYasinchuk/Module-npm-34#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.3"
+  }
+}
